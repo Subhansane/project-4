@@ -1,6 +1,4 @@
--- Remove or comment out the following two lines if using SQLite
--- CREATE DATABASE CarRentalSystem;
--- USE CarRentalSystem;
+
 
 -- 1. Employee Table
 CREATE TABLE Employee (
